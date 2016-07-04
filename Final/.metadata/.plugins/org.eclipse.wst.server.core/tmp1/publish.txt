@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Jul 04 23:12:33 IST 2016
+org.eclipse.jst.j2ee.server\:ShopingCartBackEnd=WEB-INF/lib/ShopingCartBackEnd-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Nandhini\\.m2\\repository\\org\\springframework\\spring-web\\4.3.0.RELEASE\\spring-web-4.3.0.RELEASE.jar=WEB-INF/lib/spring-web-4.3.0.RELEASE.jar
